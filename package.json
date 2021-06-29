@@ -1,0 +1,24 @@
+{
+  "name": "reactsneakers290621",
+  "version": "1.0.0",
+  "description": "Internet shop on react for juniors",
+  "main": "index.js",
+  "scripts": {
+    "test": "react"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leon3854/reactSneakers29062021.git"
+  },
+  "keywords": [
+    "react",
+    "internet",
+    "shop"
+  ],
+  "author": "Leon3854",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leon3854/reactSneakers29062021/issues"
+  },
+  "homepage": "https://github.com/Leon3854/reactSneakers29062021#readme"
+}
