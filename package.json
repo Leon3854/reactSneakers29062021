@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/Leon3854/reactSneakers29062021/issues"
   },
-  "homepage": "https://github.com/Leon3854/reactSneakers29062021#readme"
+  "homepage": "https://github.com/Leon3854/reactSneakers29062021#readme",
+  "private": "true"
 }
