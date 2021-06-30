@@ -23,6 +23,7 @@
   "homepage": "https://github.com/Leon3854/reactSneakers29062021#readme",
   "private": "true",
   "dependencies": {
+    "macro-css": "^1.0.4",
     "node-sass": "^4.14.1"
   }
 }
